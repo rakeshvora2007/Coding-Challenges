@@ -1,0 +1,2 @@
+jackson - JSON
+jaxb - XML

@@ -1,0 +1,23 @@
+What is Git?
+Ans: Git is a Version Control tool. It is used to keep track of source code and changes made to it.
+
+How do you create a new local repository?
+Ans: 
+
+How do you create a local copy of repository hosted remotely?
+Ans:
+
+How do you stage changes you have made locally?
+Ans:
+
+What do ypu need to do before you can push your staged changes to remote branch?
+Ans:
+
+How do you push your commits to the remote branch?
+Ans:
+
+How do you bring remote branch changes to local copy?
+Ans:
+
+How do you see the list of files that you have changed or added but has not committed?
+Ans:
